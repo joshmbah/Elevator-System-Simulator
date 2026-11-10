@@ -2,7 +2,7 @@
 
 A Qt/C++ simulator for a 3-elevator, 7-floor system with an interactive GUI and console event logging. Built as a COMP3004 course project at Carleton University.
 
-The simulator source is no longer available — this repository preserves the design documentation: use cases, UML diagrams, design decisions, and the requirements traceability matrix.
+The simulator source is no longer available. This repository preserves the design documentation: use cases, UML diagrams, design decisions, and the requirements traceability matrix.
 
 ## What it does
 
